@@ -35,14 +35,6 @@ Front-end Developer
 
 <a href="https://app.daily.dev/Deidarra"><img src="https://api.daily.dev/devcards/210620671f4f444d9bd72e01cb6b189e.png?r=5y6" width="400" alt="Alaa's Dev Card"/></a>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alaa0007"><img src="https://github-readme-stats.vercel.app/api?username=alaa0007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alaa0007's GitHub stats" /></a>
-
-<a href="http://www.github.com/alaa0007"><img src="https://activity-graph.herokuapp.com/graph?username=alaa0007&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/alaabouassC"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
