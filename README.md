@@ -32,7 +32,7 @@ Front-end Developer
 
 ### Badges
 
-<a href="https://app.daily.dev/Deidarra"><img src="https://api.daily.dev/devcards/210620671f4f444d9bd72e01cb6b189e.png?r=5y6" width="400" alt="Alaa's Dev Card"/></a>
+<a href="https://app.daily.dev/Deidarra"><img src="https://api.daily.dev/devcards/210620671f4f444d9bd72e01cb6b189e.png?r=14a" width="400" alt="Alaa's Dev Card"/></a>
 
 ### Support Me
 
