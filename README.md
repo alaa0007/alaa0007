@@ -1,4 +1,4 @@
-Hi 👋 My name is Alaa BOUASSIDA 
+Hi 👋 My name is Alaa BOUASSIDA
 ===============================
 
 Front-end Developer
