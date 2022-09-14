@@ -1,10 +1,10 @@
 Hi 👋 My name is Alaa BOUASSIDA
 ===============================
 
-Front-end Developer
+MERN-Stack Developer
 -------------------
 
-* 🌍  I'm based in Tunis
+* 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [www.alaaBouassida.com](http://alaa97-portfolio.netlify.app/)
 * ✉️  You can contact me at [alaabouassida97@gmail.com](mailto:alaabouassida97@gmail.com)
 * 🚀  I'm currently working on [Muscle Factory](https://muscle-factory.netlify.app/)
