@@ -2,7 +2,7 @@ Hi 👋 My name is Alaa BOUASSIDA
 ===============================
 
 MERN-Stack Developer
--------------------
+------------------- 
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [www.alaaBouassida.com](http://alaa97-portfolio.netlify.app/)
